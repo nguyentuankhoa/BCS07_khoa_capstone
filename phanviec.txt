@@ -1,0 +1,3 @@
+Tuấn Hoàng (trưởng nhóm):  index + blog + responsive( chỉnh sửa lỗi vặt gộp các trang github)
+Tuấn khoa: about + contact + quay youtobe
+Thiên Bảo :  service + blog chi tiết + 404
